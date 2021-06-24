@@ -21,7 +21,7 @@ bin/kafka-server-start.sh config/server.properties
   
 ```
 
-- Bước 3: Từ thư mục mở terminal chạy:
+- Bước 3: Cd đến thư mục project và mở terminal chạy:
 ```
 php producer.php
 ```
